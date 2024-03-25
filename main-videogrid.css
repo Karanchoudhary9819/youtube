@@ -1,7 +1,6 @@
 .main {
   display: flex;
   flex-direction: row;
-  height: fit-content;
 }
 .video-format {
   width: 300px;
